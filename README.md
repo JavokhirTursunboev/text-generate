@@ -1,4 +1,4 @@
-React Text Generator
+ #React Text Generator
 This is a simple React application for generating text using a language model. It utilizes the GPT-3.5 architecture to generate human-like text based on the input provided. You can use this application to quickly generate paragraphs, sentences, or even creative stories.
 How to Use
 Enter your text prompt in the input field.
